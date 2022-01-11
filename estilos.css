@@ -75,6 +75,6 @@ footer{
   background-color: #023E24;
 }
 footer div a{
-  display: block-line;
+  display: inline-block;
   color: red;
 }
