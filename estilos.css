@@ -74,3 +74,6 @@ footer{
   padding-bottom: 10px;
   background-color: #023E24;
 }
+footer div a{
+color: black;
+}
