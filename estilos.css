@@ -1,0 +1,76 @@
+.main-nav {
+  margin-left: -15px;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-left: 10px;
+  list-style: none;
+  background-color: #248371;
+  font-size: 150%;
+}
+.main-nav__item {
+  display: inline-block;
+}
+.main-nav__item a{
+    color: #000000;
+    text-decoration: none;
+    padding-left: 20px
+}
+.main-nav__item a::after{
+  content: "|";
+}
+.main-nav__item a:hover{
+  color: #37B47D;
+}
+.main-nav__item a:active{
+  color: #134831;
+}
+.body{
+  margin-top: 12px;
+  margin-left: 15px;
+  padding-top: 0px;
+  border: 0px;
+  background-color: #177149;
+}
+#parrafo{
+  font-size: 130%;
+  padding: 0.2%;
+}
+main {
+  width: 100%;
+  height: 100%;
+  background-color: #023E24;
+  border-radius: 2%;
+}
+div a{
+  display: block;
+  font-size: 150%;
+  text-decoration: none;
+  color: #87CCAE;
+}
+h1{
+padding-left: 0.2%;
+}
+section div {
+  display: inline-block;
+  width: 15%;
+}
+.articulo{
+  padding-left: 1%;
+  padding-right: 2%;
+}
+.foto{
+  width:90%;
+}
+#whatsapp{
+  width:35px;
+}
+footer div{
+  padding-left: 30%;
+}
+footer{
+  margin-left: 0px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+  background-color: #023E24;
+}
