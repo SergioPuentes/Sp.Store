@@ -75,5 +75,6 @@ footer{
   background-color: #023E24;
 }
 footer div a{
-color: black;
+  display: block-line;
+  color: black;
 }
